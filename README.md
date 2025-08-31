@@ -1,3 +1,13 @@
+# 🔧 Cài đặt & Build
+
+## 📥 Cài đặt
+
+1. Tải file `.dll` từ [Releases](https://github.com/ozone10/Npp-DarkNpp/releases/latest).  
+2. Giải nén (nếu cần) và copy file `.dll` vào thư mục plugin của Notepad++:  
+
+
+
+
 # DarkNpp
 
 [![Trạng thái build](https://img.shields.io/github/actions/workflow/status/ozone10/Npp-DarkNpp/build.yml?branch=master&logo=Github)](https://github.com/ozone10/Npp-DarkNpp)  
@@ -60,3 +70,4 @@ Trên **Windows 11** có thể bật hiệu ứng **mica** trên cửa sổ chí
 [DarkNpp]
 useDark=1
 micaType=0
+
